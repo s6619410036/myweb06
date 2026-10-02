@@ -6,7 +6,7 @@ function myFuncA(xx, yy, zz){
  
     console.log(data)
  
-    zz('Wow wow wow') //callback function
+    zz( 'Wow wow wow' ) //callback function
 }
  
 //-------------------------------------
